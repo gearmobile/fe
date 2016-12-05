@@ -6,20 +6,17 @@
 
 При создании использовались следующие **плагины** и **ресурсы**:
 
-[Icomoon][1]
-[Google Maps][2]
-[Isotope][3]
-[Swiper Slider][4]
-[imagesLoaded][5]
-[Chartist.js][6]
-[Lost Grid][7]
+* [Icomoon][1]
+* [Google Maps][2]
+* [Isotope][3]
+* [Swiper Slider][4]
+* [imagesLoaded][5]
+* [Chartist.js][6]
+* [Lost Grid][7]
 
 # Верстка
 
-Верстка производилась с использованием **шаблона**:
-
-[TARS][8]
-... из исходников в формате PSD ( **Adobe Photoshop** и [Adobe Creative Cloud][9] ).
+Верстка производилась с использованием **шаблона** [TARS][8] из исходников в формате PSD ( **Adobe Photoshop** и [Adobe Creative Cloud][9] ).
 
 ## Кроссбраузерность
 
